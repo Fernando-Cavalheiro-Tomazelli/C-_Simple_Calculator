@@ -1,2 +1,2 @@
-# C-_Simple_Calculator
+# Cpp_Simple_Calculator
 Calculadora simples feita em C++ com intuito de praticar a linguagem.
